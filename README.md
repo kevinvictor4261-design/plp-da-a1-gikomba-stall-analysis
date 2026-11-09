@@ -4,7 +4,7 @@
 Wanjiku operates a fresh-produce stall at Gikomba Market and needs data-driven insights to evaluate her two-week trading performance, track week-on-week growth, optimize inventory stock levels, and identify high-performing versus underperforming sales days to maximize profitability.
 
 ## How to Run
-[Open in Colab Link](https://colab.research.google.com/https://github.com/kevinvictor4261-design/plp-da-a1-gikomba-stall-analysis.git)
+[Open in Colab Link]https://colab.research.google.com/github/kevinvictor4261-design/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb
 
 ## Top Three Findings
 1. **Strong Weekend Demand:** Sales peak significantly on Saturdays and Sundays, averaging over 35% higher than weekday revenues.
